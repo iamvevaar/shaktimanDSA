@@ -13,3 +13,11 @@ solved some question like first occcurence , last occurence , count no. of occur
 
 # # day03 11/10/2022
 revised whole topic , question related to no. of ones in binary sorted array , finding srr root
+
+# # day04 12/10/2022
+learn about hoe to merge two list
+
+# # day04 13/10/2022
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# # day05 14/10/2022
